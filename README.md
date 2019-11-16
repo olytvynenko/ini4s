@@ -1,2 +1,13 @@
-# ini4s
-Ini file parser for Scala
+# Project Title
+Simple ini parser for scala
+
+### Installing
+
+$ git clone git@github.com:olytvynenko/ini4s.git
+
+### Usage example
+
+val parser = new IniParser
+val path = "c:/test.ini"
+val iniData = parser.load(path)
+
