@@ -3,7 +3,9 @@ Simple ini parser for scala
 
 ### Installing
 
+```bash
 $ git clone git@github.com:olytvynenko/ini4s.git
+```
 
 ### Usage example
 
